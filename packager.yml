@@ -1,0 +1,17 @@
+name: VOLTAGE
+
+description: kill yourself
+version: "1.1"
+icon: player/player.png
+
+assets:
+  - "*.lua"
+  - ./**/*
+
+targets:
+  - love
+  - web
+  - win-32
+  - win-64
+  - linux
+  - mac
